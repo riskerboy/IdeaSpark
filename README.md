@@ -2,6 +2,8 @@
 
 > Transform your skills and interests into profitable business opportunities with data-driven insights
 
+<img width="1271" height="670" alt="image" src="https://github.com/user-attachments/assets/a7488515-996c-4213-9591-187158a62c23" />
+
 **IdeaSpark** is an intelligent web application that helps entrepreneurs and creators discover personalized business ideas with real market potential. Using the Gold Mining Framework, IdeaSpark analyzes Reddit discussions, market trends, and your unique profile to uncover pain points and generate tailored business opportunities.
 
 ## ✨ Why IdeaSpark?
@@ -20,9 +22,7 @@
 - [Setup Instructions](#setup-instructions)
 - [New Features](#new-features)
 - [API Endpoints](#api-endpoints)
-- [Demo & Screenshots](#-demo--screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🏗️ Technology Stack
 
