@@ -1,0 +1,167 @@
+{
+  "subreddits": {
+    "entrepreneur": {
+      "name": "entrepreneur",
+      "display_name": "Entrepreneur",
+      "subscribers": 3000000,
+      "category": "business",
+      "topics": [
+        "startup",
+        "business",
+        "entrepreneurship",
+        "marketing"
+      ],
+      "activity_score": 9,
+      "last_updated": "2025-07-15T03:58:12.567076"
+    },
+    "smallbusiness": {
+      "name": "smallbusiness",
+      "display_name": "Small Business",
+      "subscribers": 500000,
+      "category": "business",
+      "topics": [
+        "small business",
+        "entrepreneurship",
+        "marketing",
+        "finance"
+      ],
+      "activity_score": 8,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "startups": {
+      "name": "startups",
+      "display_name": "Startups",
+      "subscribers": 1000000,
+      "category": "business",
+      "topics": [
+        "startup",
+        "entrepreneurship",
+        "tech",
+        "funding"
+      ],
+      "activity_score": 9,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "freelance": {
+      "name": "freelance",
+      "display_name": "Freelance",
+      "subscribers": 200000,
+      "category": "business",
+      "topics": [
+        "freelancing",
+        "remote work",
+        "clients",
+        "income"
+      ],
+      "activity_score": 8,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "programming": {
+      "name": "programming",
+      "display_name": "Programming",
+      "subscribers": 4000000,
+      "category": "tech",
+      "topics": [
+        "programming",
+        "coding",
+        "development",
+        "software"
+      ],
+      "activity_score": 9,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "webdev": {
+      "name": "webdev",
+      "display_name": "Web Development",
+      "subscribers": 800000,
+      "category": "tech",
+      "topics": [
+        "web development",
+        "frontend",
+        "backend",
+        "coding"
+      ],
+      "activity_score": 8,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "productivity": {
+      "name": "productivity",
+      "display_name": "Productivity",
+      "subscribers": 300000,
+      "category": "lifestyle",
+      "topics": [
+        "productivity",
+        "time management",
+        "organization",
+        "efficiency"
+      ],
+      "activity_score": 7,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "marketing": {
+      "name": "marketing",
+      "display_name": "Marketing",
+      "subscribers": 400000,
+      "category": "business",
+      "topics": [
+        "marketing",
+        "advertising",
+        "branding",
+        "growth"
+      ],
+      "activity_score": 8,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "health": {
+      "name": "health",
+      "display_name": "Health",
+      "subscribers": 2000000,
+      "category": "health",
+      "topics": [
+        "health",
+        "wellness",
+        "fitness",
+        "nutrition"
+      ],
+      "activity_score": 8,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    },
+    "education": {
+      "name": "education",
+      "display_name": "Education",
+      "subscribers": 500000,
+      "category": "education",
+      "topics": [
+        "education",
+        "learning",
+        "teaching",
+        "skills"
+      ],
+      "activity_score": 7,
+      "last_updated": "2025-07-15T03:58:12.568085"
+    }
+  },
+  "categories": {
+    "business": [
+      "entrepreneur",
+      "smallbusiness",
+      "startups",
+      "freelance",
+      "marketing"
+    ],
+    "tech": [
+      "programming",
+      "webdev"
+    ],
+    "lifestyle": [
+      "productivity"
+    ],
+    "health": [
+      "health"
+    ],
+    "education": [
+      "education"
+    ]
+  },
+  "last_updated": "2025-07-15T03:58:12.568085"
+}
